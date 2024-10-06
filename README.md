@@ -10,7 +10,6 @@
 
 <img align="right" width="400" height="380" src="https://github.com/user-attachments/assets/cc360a35-e599-402f-beee-679790f86ef7">
 
-https://github.com/user-attachments/assets/68d035b9-1b72-46dc-aadf-43ad68ada857)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorev04&label=Profile%20views&color=0e75b6&style=flat" alt="kishorev04" /> </p>
 
