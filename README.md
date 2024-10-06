@@ -1,4 +1,9 @@
-<img align="right" width="800" height="200" src="https://github.com/user-attachments/assets/68d035b9-1b72-46dc-aadf-43ad68ada857">
+<img align="right" width="1000" height="300" src="https://github.com/user-attachments/assets/68d035b9-1b72-46dc-aadf-43ad68ada857">
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm  𝙺𝚒𝚜𝚑𝚘𝚛𝚎 𝚟</h1>
 <h3 align="center">"Aspiring Engineering Student | Full-Stack Developer | Passionate about Databases and Problem Solving". "Building Solutions, One Line of Code at a Time"</h3>
