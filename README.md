@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  𝙺𝚒𝚜𝚑𝚘𝚛𝚎 𝚟</h1>
 <h3 align="center">"Aspiring Engineering Student | Full-Stack Developer | Passionate about Databases and Problem Solving". "Building Solutions, One Line of Code at a Time"</h3>
 
-![WhatsApp GIF 2024-10-07 at 00 07 14](https://github.com/user-attachments/assets/cc360a35-e599-402f-beee-679790f86ef7)
+<img align="right" width="400" height="380" src="https://github.com/user-attachments/assets/cc360a35-e599-402f-beee-679790f86ef7">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorev04&label=Profile%20views&color=0e75b6&style=flat" alt="kishorev04" /> </p>
