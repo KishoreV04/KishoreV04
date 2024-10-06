@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/kishore v" target="blank"><img src="https://img.shields.io/twitter/follow/kishore v?logo=twitter&style=for-the-badge" alt="kishore v" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Project**
-WhatsApp GIF 2024-10-07 at 00.07.14
+  
 - 🌱 I’m currently learning **Javascript | React**
 
 - 💬 Ask me about **Web Development**
