@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm  𝕂𝕚𝕤𝕙𝕠𝕣𝕖 𝚟</h1>
-<h3 align="center">"Aspiring Engineering Student | Full-Stack Developer | Passionate about Databases and Problem Solving". "Building Solutions, One Line of Code at a Time"</h3>
+<h3 align="center">"Aspiring Engineering Student | FrontEnd Developer | Passionate about Databases and Problem Solving". "Building Solutions, One Line of Code at a Time"</h3>
 
 <img align="right" width="400" height="380" src="https://github.com/user-attachments/assets/cc360a35-e599-402f-beee-679790f86ef7">
 
